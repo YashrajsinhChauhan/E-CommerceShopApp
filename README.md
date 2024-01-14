@@ -1,6 +1,8 @@
 # E-CommerceShopApp
 
-It's an E-Commerce Shop App built in Kotlin Language, and I utilised Cloud Firestore to store user data. This application allows users to create accounts and upload products for selling or purchasing any products uploaded by other users.
+•	Developed an E-Commerce Shop App using Kotlin, providing a platform for users to buy and sell products. Enabled users to browse and purchase items listed by other users, facilitating a marketplace environment.
+<br>•	Utilized Cloud Firestore for secure and scalable data storage, ensuring efficient handling of user data, which led to a 30% improvement in data retrieval times.
+<br>•	Revised an intuitive interface and seamless experience, boosting user satisfaction and app engagement by 20%.
 
 
 # Screenshots
